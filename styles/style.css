@@ -85,6 +85,10 @@ select {
     --dark-blue: hsl(218, 44%, 22%);
 }
 
+html {
+    font-family: 'Outfit', sans-serif;
+}
+
 body {
     height: calc(var(--vh, 1vh) * 100);
     margin: 0 auto;
