@@ -160,15 +160,7 @@ body {
 
 @media (max-width: 768px) {
     .attribution {
-        font-family: 'Outfit', sans-serif;
-        font-size: 0.8em;
-        color: var(--dark-blue);
-        text-align: center;
-        margin-top: 1rem;
-        position: fixed;
-        bottom: 0;
         padding: 12px;
-        width: 100%;
     }
 }
 
