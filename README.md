@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- Figma (used to measure things like padding, border radii, margins, etc - Note: I do not have a Pro account, I just measured from the provided design screenshots.)
+- Figma (used to measure things like padding, border radii, margins, etc - Note: I do not have a Pro account, thus no Figma source file. I just measured from the provided design screenshots.)
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
