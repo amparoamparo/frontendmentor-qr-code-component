@@ -34,7 +34,8 @@ html:focus-within {
 
 /* Set core body defaults */
 body {
-    /* min-height: 100vh; */
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
     text-rendering: optimizeSpeed;
     font-size: 15px;
 }
@@ -88,10 +89,10 @@ select {
 
 html {
     font-family: 'Outfit', sans-serif;
+    height: -webkit-fill-available;
 }
 
 body {
-    height: calc(var(--vh, 1vh) * 100);
     margin: 0 auto;
     background-color: var(--light-gray);
     display: grid;
